@@ -1,0 +1,5 @@
+D:\Sparta\spart\Kiahn_TextRpg_Project_Git\Kiahn_TextRpg_Project_Git\TextRpgProject\bin\Release\net8.0\publish\TextRpgProject.exe
+D:\Sparta\spart\Kiahn_TextRpg_Project_Git\Kiahn_TextRpg_Project_Git\TextRpgProject\bin\Release\net8.0\publish\TextRpgProject.dll
+D:\Sparta\spart\Kiahn_TextRpg_Project_Git\Kiahn_TextRpg_Project_Git\TextRpgProject\bin\Release\net8.0\publish\TextRpgProject.deps.json
+D:\Sparta\spart\Kiahn_TextRpg_Project_Git\Kiahn_TextRpg_Project_Git\TextRpgProject\bin\Release\net8.0\publish\TextRpgProject.runtimeconfig.json
+D:\Sparta\spart\Kiahn_TextRpg_Project_Git\Kiahn_TextRpg_Project_Git\TextRpgProject\bin\Release\net8.0\publish\TextRpgProject.pdb

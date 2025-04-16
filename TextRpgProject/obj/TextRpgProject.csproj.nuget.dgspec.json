@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Sparta\\spart\\Kiahn_TextRpg_Project\\TextRpgProject\\TextRpgProject.csproj": {}
+    "D:\\Sparta\\spart\\Kiahn_TextRpg_Project_Git\\Kiahn_TextRpg_Project_Git\\TextRpgProject\\TextRpgProject.csproj": {}
   },
   "projects": {
-    "D:\\Sparta\\spart\\Kiahn_TextRpg_Project\\TextRpgProject\\TextRpgProject.csproj": {
+    "D:\\Sparta\\spart\\Kiahn_TextRpg_Project_Git\\Kiahn_TextRpg_Project_Git\\TextRpgProject\\TextRpgProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Sparta\\spart\\Kiahn_TextRpg_Project\\TextRpgProject\\TextRpgProject.csproj",
+        "projectUniqueName": "D:\\Sparta\\spart\\Kiahn_TextRpg_Project_Git\\Kiahn_TextRpg_Project_Git\\TextRpgProject\\TextRpgProject.csproj",
         "projectName": "TextRpgProject",
-        "projectPath": "D:\\Sparta\\spart\\Kiahn_TextRpg_Project\\TextRpgProject\\TextRpgProject.csproj",
+        "projectPath": "D:\\Sparta\\spart\\Kiahn_TextRpg_Project_Git\\Kiahn_TextRpg_Project_Git\\TextRpgProject\\TextRpgProject.csproj",
         "packagesPath": "C:\\Users\\이기안\\.nuget\\packages\\",
-        "outputPath": "D:\\Sparta\\spart\\Kiahn_TextRpg_Project\\TextRpgProject\\obj\\",
+        "outputPath": "D:\\Sparta\\spart\\Kiahn_TextRpg_Project_Git\\Kiahn_TextRpg_Project_Git\\TextRpgProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

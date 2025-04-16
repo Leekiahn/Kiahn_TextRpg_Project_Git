@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "QWmPYaHMNOs=",
+  "success": true,
+  "projectFilePath": "D:\\Sparta\\spart\\Kiahn_TextRpg_Project_Git\\Kiahn_TextRpg_Project_Git\\TextRpgProject\\TextRpgProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\이기안\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\8.0.14\\microsoft.netcore.app.runtime.win-x86.8.0.14.nupkg.sha512",
+    "C:\\Users\\이기안\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\8.0.14\\microsoft.windowsdesktop.app.runtime.win-x86.8.0.14.nupkg.sha512",
+    "C:\\Users\\이기안\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\8.0.14\\microsoft.aspnetcore.app.runtime.win-x86.8.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
