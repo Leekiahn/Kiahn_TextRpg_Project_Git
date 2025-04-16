@@ -309,7 +309,7 @@ namespace TextRpgProject
             if (player.inventoryList.Contains(shopList))
             {
                 player.inventoryList.Remove(shopList); //아이템 판매
-                player.gold += shopList.itemPrice; //골드 획득
+                player.gold += shopList.itemPrice * 85 / 100; //골드 획득
                 Console.WriteLine($"{shopList.itemName}을(를) 판매하였습니다.");
             }
             else
@@ -583,6 +583,9 @@ namespace TextRpgProject
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("시작하시려면 아무 키나 누르세요.");
+            Console.ReadKey(true); //키 입력 대기
+
             Player user = new Player(); //플레이어 생성
             Shop shop = new Shop(); //상점 생성
             Dengeon dengeon = new Dengeon(); //던전 생성
