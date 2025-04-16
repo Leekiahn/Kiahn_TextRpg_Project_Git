@@ -196,3 +196,8 @@ D:\Sparta\spart\Kiahn_TextRpg_Project_Git\Kiahn_TextRpg_Project_Git\TextRpgProje
 D:\Sparta\spart\Kiahn_TextRpg_Project_Git\Kiahn_TextRpg_Project_Git\TextRpgProject\obj\Release\net8.0\win-x86\TextRpgProject.pdb
 D:\Sparta\spart\Kiahn_TextRpg_Project_Git\Kiahn_TextRpg_Project_Git\TextRpgProject\obj\Release\net8.0\win-x86\TextRpgProject.genruntimeconfig.cache
 D:\Sparta\spart\Kiahn_TextRpg_Project_Git\Kiahn_TextRpg_Project_Git\TextRpgProject\obj\Release\net8.0\win-x86\ref\TextRpgProject.dll
+D:\Sparta\spart\Kiahn_TextRpg_Project_Git\Kiahn_TextRpg_Project_Git\TextRpgProject\bin\Release\net8.0\win-x86\TextRpgProject.dll.manifest
+D:\Sparta\spart\Kiahn_TextRpg_Project_Git\Kiahn_TextRpg_Project_Git\TextRpgProject\bin\Release\net8.0\win-x86\TextRpgProject.application
+D:\Sparta\spart\Kiahn_TextRpg_Project_Git\Kiahn_TextRpg_Project_Git\TextRpgProject\obj\Release\net8.0\win-x86\TextRpgProject.genpublishdeps.cache
+D:\Sparta\spart\Kiahn_TextRpg_Project_Git\Kiahn_TextRpg_Project_Git\TextRpgProject\obj\Release\net8.0\win-x86\TextRpgProject.dll.manifest
+D:\Sparta\spart\Kiahn_TextRpg_Project_Git\Kiahn_TextRpg_Project_Git\TextRpgProject\obj\Release\net8.0\win-x86\TextRpgProject.application
