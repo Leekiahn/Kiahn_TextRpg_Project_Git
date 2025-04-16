@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TextRpgProject/1.0.0": {
+        "runtime": {
+          "TextRpgProject.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TextRpgProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
